@@ -1,4 +1,4 @@
-← [Home](/)
+← [Home](home.md)
 
 # Overview
 
