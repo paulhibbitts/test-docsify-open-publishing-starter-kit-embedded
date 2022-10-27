@@ -11,6 +11,6 @@
 - [Topic One](topic-one.md)
 - [Topic Two](topic-two.md)
 - Topic Three
- - [Overview](/topic-three/overview.md)
- - [Subtopic One](/topic-three/subtopic-one.md)
- - [Subtopic Two](/topic-three/subtopic-two.md)
+    - [Overview](/topic-three/overview.md)
+    - [Subtopic One](/topic-three/subtopic-one.md)
+    - [Subtopic Two](/topic-three/subtopic-two.md)
